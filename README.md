@@ -87,8 +87,10 @@ main.jsx e import "bootstrap/dist/css/bootstrap.min.css"; bitti.
 
 <!--
 1  get statusu normal modda neden ımport ettık
-2 bide edit modda duuzenleye basınca varsayılan todo statusuna geçmiyor.
+2 bide edit modda duuzenleye basınca varsayılan todo statusuna geçmiyor.>
 
- >![EkranKayd2024-01-3121 13 34-ezgif com-video-to-gif-converter](https://github.com/1989zlm/TodoList-ServerCrud/assets/146070651/59e41f4f-e630-4976-a7de-df05e67bea7a)
+ 
+ ##screen gif
+ ![EkranKayd2024-01-3121 13 34-ezgif com-video-to-gif-converter](https://github.com/1989zlm/TodoList-ServerCrud/assets/146070651/59e41f4f-e630-4976-a7de-df05e67bea7a)
 
- ### screen gif 
+
