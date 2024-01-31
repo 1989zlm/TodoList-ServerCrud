@@ -1,0 +1,70 @@
+{
+  "todos": [
+    {
+      "id": "42af393a-01cf-445d-9bbc-31b5bdf600fa",
+      "title": "hurhu2ı3ruıp2g",
+      "status": "job",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "141c25e4-7531-450a-b044-e8dedac0b7f5",
+      "title": "rhırıqwhrtıuq",
+      "status": "important",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "dcec923e-a058-480c-8918-ceb4d558b384",
+      "title": "vite çalışıldı",
+      "status": "job",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "5ee47fa3-5629-4848-b2e5-4b723794de7f",
+      "title": "js tekrar et",
+      "status": "important",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "0bac96b4-d11b-40a4-9fc3-5cc05e33ec79",
+      "title": "ders tekrarı",
+      "status": "daily",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "d7d0e167-b26d-4480-a7b6-c2fbdc0134a5",
+      "title": "react çalış",
+      "status": "Varsayılan",
+      "date": "31.01.2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali"
+    },
+    {
+      "id": "2",
+      "name": "Ayşe"
+    }
+  ],
+  "activty": [
+    {
+      "id": "107",
+      "info": "hesap yenilendi1",
+      "date": "26/01/2029",
+      "price": 100
+    },
+    {
+      "id": "102",
+      "info": "hesap yenilendi2",
+      "date": "26/01/2027",
+      "price": 110
+    },
+    {
+      "id": "105",
+      "info": "hesap yenilendi3",
+      "date": "26/01/2025",
+      "price": 120
+    }
+  ]
+}
